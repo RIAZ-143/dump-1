@@ -1,3 +1,3 @@
-from dump import dump
+from dump import p_dump
 
-dump()
+p_dump()
